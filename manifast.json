@@ -1,0 +1,9 @@
+{
+  "name": "2-3 암기장",
+  "short_name": "2-3",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f7f5f0",
+  "theme_color": "#7c9082",
+  "icons": []
+}
